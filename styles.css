@@ -226,17 +226,16 @@ nav ul li a:hover {
 }
 
 
-/* Our Services Section */
 .our-services {
     padding: 50px 0;
-    background: #0d0d0d; /* Background color for the section */
+    background: #0d0d0d; 
     color: #fff;
 }
 
 .services-container {
     display: flex;
     align-items: center;
-    gap: 50px; /* Space between the text and the grid */
+    gap: 50px;
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -319,7 +318,6 @@ nav ul li a:hover {
 }
 
 
-/* Achievements Section */
 .achievements {
     display: flex;
     justify-content: space-around;
@@ -334,7 +332,7 @@ nav ul li a:hover {
 }
 
 .achievement-item img {
-    width: 50px; /* Adjust the size as needed */
+    width: 50px; 
     margin-bottom: 10px;
 }
 
@@ -351,7 +349,6 @@ nav ul li a:hover {
 }
 
 
-/* Projects Section */
 .projects {
     text-align: center;
     padding: 50px 0;
@@ -368,7 +365,6 @@ nav ul li a:hover {
     border-radius: 8px;
 }
 
-/* Why Us Section */
 .why-us {
     display: flex;
     justify-content: space-between;
@@ -408,7 +404,6 @@ nav ul li a:hover {
 
 
 
-/* Footer Styling */
 .footer {
     background-color: #0a0a0a;
     color: #bbb;
@@ -423,7 +418,6 @@ nav ul li a:hover {
     flex-wrap: wrap;
 }
 
-/* Top Section */
 .footer-top {
     display: flex;
     justify-content: space-between;
@@ -461,7 +455,6 @@ nav ul li a:hover {
     color: rgba(109, 149, 252, 1);
 }
 
-/* Form Section */
 .footer-form {
     flex: 1;
     background-color: #131313;
@@ -487,9 +480,10 @@ nav ul li a:hover {
 }
 
 .footer-form textarea {
-    height: 150px; /* Fixed height for the message box */
-    resize: none;  /* Prevents resizing of the textarea */
+    height: 150px; 
+    resize: none; 
 }
+
 .footer-form button {
     background-color: rgba(109, 149, 252, 1);
     color: #fff;
@@ -504,7 +498,6 @@ nav ul li a:hover {
     background-color: rgba(109, 149, 252, 1);
 }
 
-/* Bottom Section */
 .footer-bottom {
     padding: 40px 0;
     /* border-top: 1px solid #333; */
@@ -565,7 +558,6 @@ nav ul li a:hover {
     font-size: 18px;
 }
 
-/* Copyright Section */
 .footer-copyright {
     text-align: center;
     padding: 20px 0;
