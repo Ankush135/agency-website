@@ -471,7 +471,6 @@ nav ul li a:hover {
     color: rgba(109, 149, 252, 1);
 }
 
-/* Testimonials Section */
 .testimonials {
     display: flex;
     justify-content: center;
@@ -490,16 +489,12 @@ nav ul li a:hover {
 }
 
 .left-image {
-    background-image: url('images/leftw.png'); /* Add left image path here */
+    background-image: url('images/leftw.png'); 
+    background-image: url('images/rightw.png'); 
 }
-
-.right-image {
-    background-image: url('images/rightw.png'); /* Add right image path here */
-}
-
 .testimonial-container {
-    width: 400px; /* Adjust width according to your needs */
-    /* background-color: #111; Background color of the container */
+    width: 400px;
+    /* background-color: #111; */
     padding: 100px 20px;
     border-radius: 15px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
