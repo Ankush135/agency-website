@@ -489,7 +489,9 @@ nav ul li a:hover {
 }
 
 .left-image {
-    background-image: url('images/leftw.png'); 
+    background-image: url('images/leftw.png');
+}
+.right-image{
     background-image: url('images/rightw.png'); 
 }
 .testimonial-container {
