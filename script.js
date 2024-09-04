@@ -16,6 +16,6 @@ document.addEventListener('DOMContentLoaded', function () {
             nextEl: '.swiper-button-next',
             prevEl: '.swiper-button-prev',
         },
-        speed: 600, // Adjust the speed as needed
+        speed: 600, 
     });
 });
